@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH014: Advanced Statistics"
+course_description: "This course covers statistical calculations and graphical representations of data, probability, random variables and binomial distribution, the bell curve, statistical experimentation, data analysis, linear regression, and chi-square analysis."
+next: ../../../
+previous: ../Unit09
+---
 **Unit 10: Chi-Square** <span id="10"></span> 
 *You open a bag of plain M&Ms and your friend opens his bag of peanut
 M&Ms, and you immediately notice that the two bags appear to have

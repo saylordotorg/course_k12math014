@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH014: Advanced Statistics"
+course_description: "This course covers statistical calculations and graphical representations of data, probability, random variables and binomial distribution, the bell curve, statistical experimentation, data analysis, linear regression, and chi-square analysis."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Hypothesis Testing** <span id="8"></span> 
 *A student competing in the science fair performs an experiment on the
 growth of tomato plants. She applies fertilizer to one group of tomato

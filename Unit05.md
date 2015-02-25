@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH014: Advanced Statistics"
+course_description: "This course covers statistical calculations and graphical representations of data, probability, random variables and binomial distribution, the bell curve, statistical experimentation, data analysis, linear regression, and chi-square analysis."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: The Normal Distribution** <span id="5"></span> 
 *Your SAT scores are here! You scored 520 on Math and 600 on Verbal.
 Should you jump for joy, or should you groan and sign up for a retest

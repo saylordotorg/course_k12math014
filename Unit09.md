@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH014: Advanced Statistics"
+course_description: "This course covers statistical calculations and graphical representations of data, probability, random variables and binomial distribution, the bell curve, statistical experimentation, data analysis, linear regression, and chi-square analysis."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Regression and Correlation** <span id="9"></span> 
 *Up to this point we have studied univariate data. This type of data
 studies one item, such as weight loss or IQ or miles per gallon. But in

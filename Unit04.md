@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH014: Advanced Statistics"
+course_description: "This course covers statistical calculations and graphical representations of data, probability, random variables and binomial distribution, the bell curve, statistical experimentation, data analysis, linear regression, and chi-square analysis."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Discrete Probability Distributions** <span id="4"></span> 
 *You received a check from Aunt Matilda for your birthday, and you want
 to go to the bank to deposit it during your 45-minute lunch break. You

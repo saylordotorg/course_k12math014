@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH014: Advanced Statistics"
+course_description: "This course covers statistical calculations and graphical representations of data, probability, random variables and binomial distribution, the bell curve, statistical experimentation, data analysis, linear regression, and chi-square analysis."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Visualizations of Data** <span id="2"></span> 
 *A picture is worth a thousand words. In Unit 2, you will learn how very
 truethis is. You will learn that every data set has a story to tell, and

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH014: Advanced Statistics"
+course_description: "This course covers statistical calculations and graphical representations of data, probability, random variables and binomial distribution, the bell curve, statistical experimentation, data analysis, linear regression, and chi-square analysis."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Conducting Experiments and Studies** <span id="6"></span> 
 *A recent study revealed that breast-fed babies have higher IQs than
 babies that were not breast-fed.*  

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH014: Advanced Statistics"
+course_description: "This course covers statistical calculations and graphical representations of data, probability, random variables and binomial distribution, the bell curve, statistical experimentation, data analysis, linear regression, and chi-square analysis."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Probability** <span id="3"></span> 
 *Penelope wants to be a lawyer and is trying to decide which of two
 colleges to attend. College A costs considerably more than College B,
