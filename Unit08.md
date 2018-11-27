@@ -110,7 +110,7 @@ either approach.*
     Link:The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s *Advanced
     Probability and Statistics*: [“Section 8.1: Hypothesis Testing and
     the
-    P-Value”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    P-Value”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -210,7 +210,7 @@ either approach.*
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 8.1: Hypothesis
     Testing and the
-    P-Value”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    P-Value”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -219,7 +219,7 @@ either approach.*
     8.1. Most of the questions are concept questions rather than
     calculation problems.  A short answer key is provided at the end of
     the problem set. For a detailed solution, [click
-    here](http://www.saylor.org/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-8-FlexBook-Answers-Sec-8.1-FINAL.pdf).  
+    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-8-FlexBook-Answers-Sec-8.1-FINAL.pdf).  
         
      Completing the review questions should take approximately 30
     minutes.  
@@ -255,7 +255,7 @@ statistic.*
     *Advanced Probability and Statistics***
     Link:The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s *Advanced
     Probability and Statistics*: [“Section 8.2: Testing a Proportion
-    Hypothesis”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Hypothesis”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -313,7 +313,7 @@ statistic.*
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 8.2: Testing a
     Proportion
-    Hypothesis”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Hypothesis”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -323,7 +323,7 @@ statistic.*
     procedure, as shown in Section 8.2 of the text and previous video. 
     A short answer key is provided at the end of the problem set. For a
     detailed solution, [click
-    here](http://www.saylor.org/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-8-FlexBook-Answers-Sec-8.2-FINAL-w-one-comment.pdf).  
+    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-8-FlexBook-Answers-Sec-8.2-FINAL-w-one-comment.pdf).  
         
      Completing the review questions should take approximately 30
     minutes.  
@@ -359,7 +359,7 @@ checkpoint.*
     Probability and Statistics***
     Link:The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s *Advanced
     Probability and Statistics*: [“Section 8.3: Testing a Mean
-    Hypothesis”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Hypothesis”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -413,7 +413,7 @@ checkpoint.*
     Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 8.3: Testing a Mean
-    Hypothesis”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Hypothesis”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -422,7 +422,7 @@ checkpoint.*
     8.3. Be sure to use the six-step procedure for a large sample test
     for a mean.  A short answer key is provided at the end of the
     problem set. For a detailed solution, [click
-    here](http://www.saylor.org/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-8-FlexBook-Answers-Sec-8.3-FINAL.pdf).  
+    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-8-FlexBook-Answers-Sec-8.3-FINAL.pdf).  
         
      Completing the review questions should take approximately 45
     minutes.  
@@ -460,7 +460,7 @@ confidence intervals.*
     *Advanced Probability and Statistics***
     Link:The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s *Advanced
     Probability and Statistics*: [“Section 8.4: Student’s
-    t-Distribution”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    t-Distribution”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -494,7 +494,7 @@ confidence intervals.*
 -   **Explanation: Wikipedia: “Table of Selected Values (of the t
     Distribution)”**
     Link: Wikipedia: [“Table of Selected Values (of the *t*
-    Distribution)”](http://www.saylor.org/site/wp-content/uploads/2013/07/Table-of-Selected-Values-of-the-t-Distribution.pdf) (PDF)  
+    Distribution)”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Table-of-Selected-Values-of-the-t-Distribution.pdf) (PDF)  
         
      Instructions: Print the *t* table for future use or keep the link
     available for use when you are completing checkpoints or the final
@@ -604,7 +604,7 @@ confidence intervals.*
     *Advanced Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 8.4: Student’s
-    t-Distribution”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    t-Distribution”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -614,7 +614,7 @@ confidence intervals.*
     calculator. Use your calculator for the calculation of the
     confidence interval.  A short answer key is provided at the end of
     the problem set. For a detailed solution, [click
-    here](http://www.saylor.org/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-8-FlexBook-Answers-Sec-8.4-FINAL.pdf).  
+    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-8-FlexBook-Answers-Sec-8.4-FINAL.pdf).  
         
      Completing the review questions should take approximately 1 hour.  
         
@@ -658,7 +658,7 @@ concentrate on the concept rather than the computations.*
     Link:The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s *Advanced
     Probability and Statistics*: [“Section 8.5: Testing a Hypothesis for
     Dependent and Independent
-    Samples”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Samples”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -777,7 +777,7 @@ concentrate on the concept rather than the computations.*
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 8.5: Testing a
     Hypothesis for Dependent and Independent
-    Samples”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Samples”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -794,7 +794,7 @@ concentrate on the concept rather than the computations.*
     themselves as to which procedure to use.  A short answer key is
     provided at the end of the problem set. For a detailed solution,
     [click
-    here](http://www.saylor.org/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-8-FlexBook-Answers-Sec-8.5-FINAL.pdf).  
+    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-8-FlexBook-Answers-Sec-8.5-FINAL.pdf).  
         
      Completing the review questions should take approximately 1 hour
     and 30 minutes.  
