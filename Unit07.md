@@ -91,7 +91,7 @@ introduction to a concept that will be studied in more depth in Section
     *Advanced Probability and Statistics***
     Link:The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s *Advanced
     Probability and Statistics*: [“Section 7.1: Introduction to Sampling
-    Distributions”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Distributions”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -195,7 +195,7 @@ introduction to a concept that will be studied in more depth in Section
     *Advanced Probability and Statistics***
     Link:The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s *Advanced
     Probability and Statistics*: [“Section 7.1: Introduction to Sampling
-    Distributions”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Distributions”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -204,7 +204,7 @@ introduction to a concept that will be studied in more depth in Section
     7.1. There are no numerical questions yet; they will come in later
     sections of Unit 7. For a detailed solution to the concept
     questions, [click
-    here](http://www.saylor.org/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-7-FlexBook-Answers-Sec.-7.1-FINAL.pdf).  
+    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-7-FlexBook-Answers-Sec.-7.1-FINAL.pdf).  
         
      Completing the concept questions should take approximately 30
     minutes.  
@@ -239,7 +239,7 @@ Theorem in nearly every section throughout the rest of the course.*
     *Advanced Probability and Statistics***
     Link:The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s *Advanced
     Probability and Statistics*: [“Section 7.2: The Central Limit
-    Theorem”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Theorem”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -440,7 +440,7 @@ Theorem in nearly every section throughout the rest of the course.*
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 7.2: The Central
     Limit
-    Theorem”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Theorem”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -448,7 +448,7 @@ Theorem in nearly every section throughout the rest of the course.*
      Instructions: Work on the review questions at the end of Section
     7.2. Use appropriate formulas and notation as you work. For the
     correct answers, [click
-    here](http://www.saylor.org/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-7-Flexbook-Answers-Sec.-7.2-FINAL.pdf).  
+    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-7-Flexbook-Answers-Sec.-7.2-FINAL.pdf).  
         
      Completing the review questions should take approximately 1 hour.  
         
@@ -525,7 +525,7 @@ interval.*
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 7.3: Conﬁdence
     Intervals with
-    z-values”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    z-values”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -698,7 +698,7 @@ interval.*
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 7.3: Conﬁdence
     Intervals with
-    z-values”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    z-values”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -706,7 +706,7 @@ interval.*
      Instructions: Work on the review questions at the end of Section
     7.3. Both questions deal with point estimates for confidence
     intervals for proportions.  For detailed solutions, [click
-    here](http://www.saylor.org/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-7-Flexbook-Answers-Sec.-7.3-FINAL.pdf).  
+    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-7-Flexbook-Answers-Sec.-7.3-FINAL.pdf).  
         
      Completing the review questions should take approximately 1 hour.  
         

@@ -69,7 +69,7 @@ probabilities pertaining to the normal curve.*
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 5.1: The Standard
     Normal Probability
-    Distribution”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Distribution”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -159,7 +159,7 @@ probabilities pertaining to the normal curve.*
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 5.1: The Standard
     Normal Probability
-    Distribution”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Distribution”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -228,7 +228,7 @@ when the situations are more complex.*
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 5.2: The Density
     Curve of the Normal
-    Distribution”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Distribution”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -348,7 +348,7 @@ when the situations are more complex.*
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 5.2: The Density
     Curve of the Normal
-    Distribution”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Distribution”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -358,7 +358,7 @@ when the situations are more complex.*
     probabilities for answering these questions. You should draw a
     sketch for each problem. A short answer key is provided at the end
     of the problem set. For a detailed solution, [click
-    here.](http://www.saylor.org/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-5-Flexbook-Answers-Sec.-5.2-FINAL.pdf)  
+    here.](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-5-Flexbook-Answers-Sec.-5.2-FINAL.pdf)  
         
      Completing the activity should take approximately 1 hour.  
         
@@ -389,7 +389,7 @@ parts of this course, so mastery of the material is important.*
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 5.3: Applications
     of the Normal
-    Distribution”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Distribution”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -452,7 +452,7 @@ parts of this course, so mastery of the material is important.*
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 5.3: Applications
     of the Normal
-    Distribution”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Distribution”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -462,7 +462,7 @@ parts of this course, so mastery of the material is important.*
     calculator or the table of standard normal probabilities to assist
     with calculation of the answer.  A short answer key is provided at
     the end of the problem set. For a detailed solution, [click
-    here](http://www.saylor.org/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-5-Flexbook-Answers-Sec.-5.3-FINAL.pdf).  
+    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-5-Flexbook-Answers-Sec.-5.3-FINAL.pdf).  
         
      Completing the review questions should take approximately 45
     minutes.  

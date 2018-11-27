@@ -109,7 +109,7 @@ in Unit 5.*
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 4.1: Two Types of
     Random
-    Variables”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Variables”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -185,7 +185,7 @@ in Unit 5.*
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 4.1: Two Types of
     Random
-    Variables”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Variables”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -226,7 +226,7 @@ of boys in a family with four children.*
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 4.2: Probability
     Distribution for a Discrete Random
-    Variable”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Variable”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -306,7 +306,7 @@ of boys in a family with four children.*
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 4.2: Probability
     Distribution for a Discrete Random
-    Variable”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Variable”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -317,7 +317,7 @@ of boys in a family with four children.*
     "drives" the calculation of the probabilities.  A short answer key
     is provided at the end of the problem set. For a detailed solution,
     [click
-    here](http://www.saylor.org/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-4-Flexbook-Answers-Sec.-4.2-FINAL.pdf).  
+    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-4-Flexbook-Answers-Sec.-4.2-FINAL.pdf).  
         
      Completing the review questions should take approximately 1 hour.  
         
@@ -352,7 +352,7 @@ same thing as the mean. *
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 4.3: Mean and
     Standard Deviation of Discrete Random
-    Variables”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Variables”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -469,7 +469,7 @@ same thing as the mean. *
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 4.3: Mean and
     Standard Deviation of Discrete Random
-    Variables”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Variables”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -479,7 +479,7 @@ same thing as the mean. *
     calculating the mean and variance of the probability distributions. 
     A short answer key is provided at the end of the problem set. For a
     detailed solution, [click
-    here](http://www.saylor.org/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-4-Flexbook-Answers-Sec.-4.3-FINAL1.pdf).  
+    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-4-Flexbook-Answers-Sec.-4.3-FINAL1.pdf).  
         
      Completing the review questions should take approximately 1 hour.  
         
@@ -525,7 +525,7 @@ this lesson:*
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 4.4: Sums and
     Differences of Independent Random
-    Variables”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Variables”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -590,7 +590,7 @@ this lesson:*
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 4.4: Sums and
     Differences of Independent Random
-    Variables”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Variables”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -601,7 +601,7 @@ this lesson:*
     rules for combining distributions for Problem 4.  A short answer key
     is provided at the end of the problem set. For a detailed solution,
     [click
-    here](http://www.saylor.org/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-4-Flexbook-Answers-Sec.-4.4-FINAL.pdf).  
+    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-4-Flexbook-Answers-Sec.-4.4-FINAL.pdf).  
         
      Completing the review questions should take approximately 1 hour.  
         
@@ -634,7 +634,7 @@ grasp.*
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 4.5: The Binomial
     Probability
-    Distribution”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Distribution”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -858,7 +858,7 @@ grasp.*
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 4.5: The Binomial
     Probability
-    Distribution”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Distribution”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -873,7 +873,7 @@ grasp.*
     for at least one of the calculations.  A short answer key is
     provided at the end of the problem set. For a detailed solution,
     [click
-    here](http://www.saylor.org/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-4-Flexbook-Answers-Sec.-4.5-FINAL.pdf).  
+    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-4-Flexbook-Answers-Sec.-4.5-FINAL.pdf).  
         
      Completing the review questions should take approximately 1 hour
     and 30 minutes.  

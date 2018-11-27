@@ -105,7 +105,7 @@ how strong the relationship is between two numerical variables*
     *Advanced Probability and Statistics***
     Link:The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s *Advanced
     Probability and Statistics*: [“Section 9.1: Scatterplots and Linear
-    Correlation”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Correlation”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -308,7 +308,7 @@ how strong the relationship is between two numerical variables*
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 9.1: Scatterplots
     and Linear
-    Correlation”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Correlation”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -320,7 +320,7 @@ how strong the relationship is between two numerical variables*
     was shown in the text. The calculation will be much easier to
     compute by using this method. A short answer key is provided at the
     end of the problem set. For a detailed solution, [click
-    here](http://www.saylor.org/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Flexbook-Answers-Sec-9.1-FINAL.pdf).  
+    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Flexbook-Answers-Sec-9.1-FINAL.pdf).  
         
      Completing the review questions should take approximately 1 hour.  
         
@@ -368,7 +368,7 @@ when we choose a particular value for the explanatory variable.*
     Probability and Statistics***
     Link:The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s *Advanced
     Probability and Statistics*: [“Section 9.2: Least-Squares
-    Regression”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Regression”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -550,7 +550,7 @@ when we choose a particular value for the explanatory variable.*
     Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 9.2: Least-Squares
-    Regression”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Regression”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -562,7 +562,7 @@ when we choose a particular value for the explanatory variable.*
     regression line and plotting and analyzing the residuals. Use
     technology to assist you in your computations. There is no short
     answer key in the text. For a detailed solution, [click
-    here](http://www.saylor.org/site/wp-content/uploads/2013/07/K12MATHAPSTATS-FlexBook-Answers-Sec-9.2-FINAL.pdf).  
+    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-FlexBook-Answers-Sec-9.2-FINAL.pdf).  
         
      Completing the review questions should take approximately 1 hour
     and 30 minutes.  
@@ -599,7 +599,7 @@ truly useful in prediction. *
     *Advanced Probability and Statistics***
     Link:The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s *Advanced
     Probability and Statistics*: [“Section 9.3: Inferences about
-    Regression”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Regression”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -655,7 +655,7 @@ truly useful in prediction. *
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 9.3: Inferences
     about
-    Regression”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Regression”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -663,7 +663,7 @@ truly useful in prediction. *
      Instructions: Work on the review questions at the end of Section
     9.3. A short answer key is provided at the end of the problem set.
     For a detailed solution, [click
-    here](http://www.saylor.org/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-9-FlexBook-Answers-Sec-9.3-FINAL.pdf).  
+    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-9-FlexBook-Answers-Sec-9.3-FINAL.pdf).  
         
      Completing the review questions should take approximately 1 hour
     and 30 minutes.  

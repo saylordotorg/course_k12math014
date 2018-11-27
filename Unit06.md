@@ -110,7 +110,7 @@ notes as you read the text and watch the videos.*
     Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 6.1: Surveys and
-    Sampling”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Sampling”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -231,7 +231,7 @@ notes as you read the text and watch the videos.*
 -   **Reading: The Saylor Foundation’s “*The Literary Digest* Poll of
     1936”**
     Link: The Saylor Foundation’s [“*The Literary Digest* Poll of
-    1936”](http://www.saylor.org/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-6-Sec.-6.1-Literary-Digest-FINAL.pdf) (PDF)  
+    1936”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-6-Sec.-6.1-Literary-Digest-FINAL.pdf) (PDF)  
         
      Instructions: Read a summary of one of the most famous examples of
     large-scale convenience sampling. Then answer each question. Feel
@@ -265,7 +265,7 @@ notes as you read the text and watch the videos.*
     Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 6.1: Surveys and
-    Sampling”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Sampling”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -274,7 +274,7 @@ notes as you read the text and watch the videos.*
     6.1. Use your list of vocabulary words from the text to help you
     answer the questions. A short answer key is provided at the end of
     the problem set. For a detailed solution, [click
-    here](http://www.saylor.org/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-6-FlexBook-Answers-Sec-6.1-FINAL.pdf).  
+    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-6-FlexBook-Answers-Sec-6.1-FINAL.pdf).  
         
      Completing the review questions should take approximately 1 hour.  
         
@@ -322,7 +322,7 @@ and statisticians perform on a daily basis.*
     Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 6.2: Experimental
-    Design”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Design”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -332,7 +332,7 @@ and statisticians perform on a daily basis.*
     Problem 3.b., review the SOPHIA video in Subunit 6.1 entitled
     “Simple Random Samples.”  A short answer key is provided at the end
     of the problem set. For a detailed solution, [click
-    here](http://www.saylor.org/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-6-FlexBook-Answers-Sec-6.2-FINAL.pdf).  
+    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-6-FlexBook-Answers-Sec-6.2-FINAL.pdf).  
         
      Completing the review questions should take approximately 1 hour.  
         
@@ -364,7 +364,7 @@ and statisticians perform on a daily basis.*
     Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 6.2: Experimental
-    Design”](http://www.saylor.org/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Design”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
