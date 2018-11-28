@@ -99,9 +99,9 @@ histogram; we will encounter it often as the course progresses!*
     CK-12: *Advanced Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section
-    2.1](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf)[:
+    2.1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf)[:
     Histograms and Frequency
-    Distributions”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Distributions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -172,9 +172,9 @@ histogram; we will encounter it often as the course progresses!*
     CK-12: *Advanced Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section
-    2.1](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf)[:
+    2.1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf)[:
     Histograms and Frequency
-    Distributions”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Distributions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -188,7 +188,7 @@ histogram; we will encounter it often as the course progresses!*
     frequencies. Check your answers carefully with the detailed
     solution. A short answer key is provided at the end of the problem
     set. For a detailed solution, [click
-    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-2-Flexbook-Answers-Sec-2.1.-FINAL.pdf).  
+    here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-2-Flexbook-Answers-Sec-2.1.-FINAL.pdf).  
         
      Completing the review questions should take approximately 1 hour.  
         
@@ -238,10 +238,10 @@ statistical graphs, using SOCS (shape, outliers, center, and spread).*
     *Advanced Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*:
-    [“](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf)[Section
-    2.2](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf)[:
+    [“](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf)[Section
+    2.2](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf)[:
     Common Graphs and Data
-    Plots”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Plots”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -284,10 +284,10 @@ statistical graphs, using SOCS (shape, outliers, center, and spread).*
     *Advanced Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*:
-    [“](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf)[Section
-    2.2](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf)[:
+    [“](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf)[Section
+    2.2](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf)[:
     Common Graphs and Data
-    Plots”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Plots”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -297,7 +297,7 @@ statistical graphs, using SOCS (shape, outliers, center, and spread).*
     remember and review the salient points about each type of graphical
     presentation. A short answer key is provided at the end of the
     problem set. For a detailed solution, [click
-    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-2-Flexbook-Answers-Sec-2.2-FINAL.pdf).  
+    here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-2-Flexbook-Answers-Sec-2.2-FINAL.pdf).  
         
      Completing the review questions should take approximately 1 hour.  
         
@@ -370,9 +370,9 @@ complete snapshot of what the data look like. *
     Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section
-    2.3](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf)[:
+    2.3](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf)[:
     Box-and-Whisker
-    Plots”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Plots”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -498,9 +498,9 @@ complete snapshot of what the data look like. *
     Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section
-    2.3](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf)[:
+    2.3](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf)[:
     Box-and-Whisker
-    Plots”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Plots”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -510,7 +510,7 @@ complete snapshot of what the data look like. *
     SOCS (shape, outliers, center, and spread) is correct. A short
     answer key is provided at the end of the problem set. For a detailed
     solution, [click
-    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-2-Flexbook-Answers-Sec-2.3-FINAL.pdf).  
+    here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-2-Flexbook-Answers-Sec-2.3-FINAL.pdf).  
         
      Completing the review questions should take approximately 1 hour.  
         

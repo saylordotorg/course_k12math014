@@ -78,7 +78,7 @@ the course.*
     *Advanced Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 1.1: Statistical
-    Terminology”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf); partially
+    Terminology”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf); partially
     adapted from David Lane’s *Online Statistics Education: An
     Interactive Multimedia Course of Study* and CK-12: *Advanced
     Probability and Statistics* (PDF)  
@@ -110,7 +110,7 @@ the course.*
     Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 1.1: Statistical
-    Terminology”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Terminology”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -143,7 +143,7 @@ interval, and ratio. *
     Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 1.2: An Overview of
-    Data”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Data”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -176,7 +176,7 @@ interval, and ratio. *
     Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 1.2: An Overview of
-    Data”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Data”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -210,7 +210,7 @@ formulas in this subunit. You will see them again!*
     Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 1.3: Measures of
-    Center”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Center”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -300,7 +300,7 @@ formulas in this subunit. You will see them again!*
     Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 1.3: Measures of
-    Center”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Center”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -309,7 +309,7 @@ formulas in this subunit. You will see them again!*
     1.3. Use your calculator to perform some of the statistical
     calculations. A short answer key is provided at the end of the
     problem set. For a detailed solution, [click
-    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-1-Flexbook-Answers-Sec-1.3.-FINAL.pdf).  
+    here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-1-Flexbook-Answers-Sec-1.3.-FINAL.pdf).  
         
      Completing the review questions should take approximately 30
     minutes.  
@@ -347,9 +347,9 @@ in this course.*
     Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section
-    1.4](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf)[:
+    1.4](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf)[:
     Measures of
-    Spread”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Spread”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -430,9 +430,9 @@ in this course.*
     Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section
-    1.4](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf)[:
+    1.4](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf)[:
     Measures of
-    Spread”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Spread”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -441,7 +441,7 @@ in this course.*
     1.4. Use your calculator where appropriate for assistance in
     answering the questions. A short answer key is provided at the end
     of the problem set. For a detailed solution, [click
-    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-1-Flexbook-Answers-Sec-1.4.-FINAL.pdf).  
+    here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-1-Flexbook-Answers-Sec-1.4.-FINAL.pdf).  
         
      Completing the review questions should take approximately 40
     minutes.  

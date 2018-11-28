@@ -145,9 +145,9 @@ the more challenging applications in the rest of this unit.*
     CK-12: *Advanced Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section
-    3.1](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf)[:
+    3.1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf)[:
     Events, Sample Spaces, and
-    Probability”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Probability”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -205,7 +205,7 @@ the more challenging applications in the rest of this unit.*
     Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 3.2: Compound
-    Events”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf):
+    Events”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf):
     Compound Events; partially adapted from David Lane’s *Online
     Statistics Education: A Multimedia Course of Study* and CK-12:
     *Advanced Probability and Statistics* (PDF)  
@@ -216,7 +216,7 @@ the more challenging applications in the rest of this unit.*
     replacement before attempting the review questions. A short answer
     key is provided at the end of the problem set. For a detailed
     solution, [click
-    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-3-FlexBook-Answers-Sec.-3.1.-FINAL.pdf).  
+    here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-3-FlexBook-Answers-Sec.-3.1.-FINAL.pdf).  
         
      Completing the review questions should take approximately 25
     minutes.  
@@ -272,7 +272,7 @@ the sets or the intersection of the sets.*
     Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 3.2: Compound
-    Events”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Events”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -325,7 +325,7 @@ the sets or the intersection of the sets.*
     Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 3.2: Compound
-    Events”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Events”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics*  
@@ -334,7 +334,7 @@ the sets or the intersection of the sets.*
     3.2. Pay close attention to the question asked - either intersection
     or union. A short answer key is provided at the end of the problem
     set. For a detailed solution, [click
-    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-3-FlexBook-Answers-Sec.-3.2.-FINAL.pdf).  
+    here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-3-FlexBook-Answers-Sec.-3.2.-FINAL.pdf).  
         
      Completing the review questions should take approximately 20
     minutes.  
@@ -366,7 +366,7 @@ used often in statistics, so it is wise to master it.*
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 3.3: The Complement
     of an
-    Event”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Event”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -420,7 +420,7 @@ used often in statistics, so it is wise to master it.*
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 3.3: The Complement
     of an
-    Event”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Event”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -429,7 +429,7 @@ used often in statistics, so it is wise to master it.*
     3.3. Use your notes from Section 3.2 and Section 3.3 to assist you
     in answering the questions. A short answer key is provided at the
     end of the problem set. For a detailed solution, [click
-    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-3-FlexBook-Answers-Sec.-3.3-FINAL.pdf).  
+    here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-3-FlexBook-Answers-Sec.-3.3-FINAL.pdf).  
         
      Completing the review questions should take approximately 30
     minutes.  
@@ -461,7 +461,7 @@ to the text and reread it. *
     Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 3.4: Conditional
-    Probability”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Probability”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -497,7 +497,7 @@ to the text and reread it. *
     for use by The Saylor Foundation**
     Link: Florida Gulf Coast University: Thomas Harrington’s [“Simple,
     Joint, Marginal and Conditional
-    Probabilities”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/K12MATHSTATS-Subunit-3.4-Conditional-Probability-adaptation.pdf)
+    Probabilities”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/08/K12MATHSTATS-Subunit-3.4-Conditional-Probability-adaptation.pdf)
     as adapted for use by The Saylor Foundation (PDF)  
         
      Instructions: Read the material carefully. It is important to be
@@ -632,7 +632,7 @@ to the text and reread it. *
     Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 3.4: Conditional
-    Probability”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Probability”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -644,7 +644,7 @@ to the text and reread it. *
     the formula, and others are easier to solve by using the natural
     frequencies approach. A short answer key is provided at the end of
     the problem set. For a detailed solution, [click
-    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-3-FlexBook-Answers-Sec.-3.4.-FINAL.pdf).  
+    here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-3-FlexBook-Answers-Sec.-3.4.-FINAL.pdf).  
         
      Completing the review questions should take approximately 40
     minutes.  
@@ -688,7 +688,7 @@ will help to clarify the concepts. *
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 3.5: Addition and
     Multiplication
-    Rules”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Rules”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -900,7 +900,7 @@ will help to clarify the concepts. *
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 3.5: Addition and
     Multiplication
-    Rules”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Rules”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -914,7 +914,7 @@ will help to clarify the concepts. *
     “intersection” symbol or if it asks an “and” question. A short
     answer key is provided at the end of the problem set. For a detailed
     solution, [click
-    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-3-FlexBook-Answers-Sec.-3.5-FINAL.pdf).  
+    here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-3-FlexBook-Answers-Sec.-3.5-FINAL.pdf).  
         
      Completing the review questions should take approximately 1 hour.  
         
@@ -960,7 +960,7 @@ entire unit. This is an extremely helpful list for review.*
     Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 3.6: Basic Counting
-    Rules”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Rules”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -1102,7 +1102,7 @@ entire unit. This is an extremely helpful list for review.*
     Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 3.6: Basic Counting
-    Rules”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Rules”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -1115,7 +1115,7 @@ entire unit. This is an extremely helpful list for review.*
     make sure that you can accurately determine the type of problem and
     how to solve it. A short answer key is provided at the end of the
     problem set. For a detailed solution, [click
-    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-3-FlexBook-Answers-Sec.-3.6-FINAL.pdf).  
+    here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/K12MATHAPSTATS-Unit-3-FlexBook-Answers-Sec.-3.6-FINAL.pdf).  
         
      Completing the review questions should take approximately 25
     minutes.  
