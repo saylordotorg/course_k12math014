@@ -84,7 +84,7 @@ actually easier than using a calculator. *
     *Advanced Probability and Statistics***
     Link:The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s *Advanced
     Probability and Statistics*: [“Section 10.1: The Goodness-of-Fit
-    Test”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Test”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -223,7 +223,7 @@ actually easier than using a calculator. *
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 10.1: The
     Goodness-of-Fit
-    Test”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Test”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -232,7 +232,7 @@ actually easier than using a calculator. *
     10.1. You will need to use the table of chi-square critical values
     to answer the final question. A short answer key is provided at the
     end of the problem set. For a detailed solution, [click
-    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-FlexBook-Answers-Sec-10.1-FINAL.pdf).  
+    here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/K12MATHAPSTATS-FlexBook-Answers-Sec-10.1-FINAL.pdf).  
         
      Completing the review questions should take approximately 1 hour.  
         
@@ -261,7 +261,7 @@ Black, Hispanic, and Caucasian Americans.*
     *Advanced Probability and Statistics***
     Link:The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s *Advanced
     Probability and Statistics*: [“Section 10.2: Test of
-    Independence”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Independence”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -343,7 +343,7 @@ Black, Hispanic, and Caucasian Americans.*
     *Advanced Probability and Statistics***
     Link: The Saylor Foundation’s Flexbook: Jill Schmidlkofer’s
     *Advanced Probability and Statistics*: [“Section 10.2: Test of
-    Independence”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
+    Independence”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/Statistics-FlexBook-20130714-FINAL.pdf);
     partially adapted from David Lane’s *Online Statistics Education: A
     Multimedia Course of Study* and CK-12: *Advanced Probability and
     Statistics* (PDF)  
@@ -355,7 +355,7 @@ Black, Hispanic, and Caucasian Americans.*
     will organize your data and keep the calculations straight. A short
     answer key is provided at the end of the problem set. For a detailed
     solution, [click
-    here](https://resources.saylor.org/archived/wp-content/uploads/2013/07/K12MATHAPSTATS-FlexBook-Answers-Sec-10.2-FINAL.pdf).  
+    here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/K12MATHAPSTATS-FlexBook-Answers-Sec-10.2-FINAL.pdf).  
         
      Completing the review questions should take approximately 1 hour.  
       
